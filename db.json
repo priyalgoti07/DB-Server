@@ -1,0 +1,139 @@
+{
+    "Products": [
+        {
+            "id": 1,
+            "name": "Smartphone",
+            "color": "Black",
+            "price": 799.99,
+            "category": "Mobile",
+            "brand": "TechBrand",
+            "photo": "https://img.freepik.com/free-vector/realistic-display-smartphone-with-different-apps_52683-30241.jpg?ga=GA1.1.279106261.1718968386&semt=ais_hybrid"
+        },
+        {
+            "id": 2,
+            "name": "Laptop",
+            "color": "Silver",
+            "price": 1199.99,
+            "category": "Computers",
+            "brand": "ProTech",
+            "photo": "https://img.freepik.com/premium-psd/modern-laptop-with-gradient-screen_53876-196672.jpg?size=626&ext=jpg&ga=GA1.1.279106261.1718968386&semt=ais_hybrid"
+        },
+        {
+            "id": 3,
+            "name": "Smartwatch",
+            "color": "Blue",
+            "price": 299.99,
+            "category": "Wearable",
+            "brand": "WearTech",
+            "photo": "https://img.freepik.com/free-vector/metallic-modern-watch_23-2147517453.jpg?1&w=740&t=st=1723202241~exp=1723202841~hmac=f3452fcf7a9ef2e3134db8919a2bb0b4984894a7f6c4ccb60f2955e6b75a4cfd"
+        },
+        {
+            "id": 4,
+            "name": "Tablet",
+            "color": "White",
+            "price": 499.99,
+            "category": "Mobile",
+            "brand": "TabWorld",
+            "photo": "https://img.freepik.com/free-psd/tablet-mock-up-isolated_1310-1137.jpg?w=1380&t=st=1723202304~exp=1723202904~hmac=08b55dd8c33bfd09d36ce0c14cfb3a6c778de396fd927607fdb0f849689ce6f1"
+        },
+        {
+            "id": 5,
+            "name": "Wireless Earbuds",
+            "color": "Black",
+            "price": 149.99,
+            "category": "Audio",
+            "brand": "SoundTech",
+            "photo": "https://img.freepik.com/free-vector/headphones-wireless-realistic-composition-with-isolated-image-phones-with-power-bank-dock-station-with-reflections-vector-illustration_1284-73201.jpg?t=st=1723268527~exp=1723272127~hmac=67d14b2a8d9009336b085d7ea8c304f2525b0e46ecb4538bdcb28da097beba76&w=740"
+        },
+        {
+            "id": 6,
+            "name": "Gaming Console",
+            "color": "Red",
+            "price": 499.99,
+            "category": "Gaming",
+            "brand": "GameMaster",
+            "photo": "https://img.lovepik.com/free-png/20210926/lovepik-cartoon-game-console-png-image_401486010_wh1200.png"
+        },
+        {
+            "id": 7,
+            "name": "Bluetooth Speaker",
+            "color": "Gray",
+            "price": 99.99,
+            "category": "Audio",
+            "brand": "SoundWave",
+            "photo": "https://png.pngtree.com/png-clipart/20201128/ourmid/pngtree-retro-bluetooth-speaker-png-image_2412692.jpg"
+        },
+        {
+            "id": 8,
+            "name": "4K TV",
+            "color": "Black",
+            "price": 999.99,
+            "category": "Home Entertainment",
+            "brand": "ViewTech",
+            "photo": "https://png.pngtree.com/element_our/20190522/ourmid/pngtree-led-tv-11---vector-material-image_1066497.jpg"
+        },
+        {
+            "id": 9,
+            "name": "Drone",
+            "color": "White",
+            "price": 749.99,
+            "category": "Cameras",
+            "brand": "FlyHigh",
+            "photo": "https://img.freepik.com/free-psd/flying-drone-with-camera-cutout-isolated-transparent-background_84443-1801.jpg"
+        },
+        {
+            "id": 10,
+            "name": "Virtual Reality Headset",
+            "color": "Black",
+            "price": 399.99,
+            "category": "Gaming",
+            "brand": "VRWorld",
+            "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnRhT0qgcMbd0C6msMqfuCv6NknctQpDo2GQ&s"
+        },
+        {
+            "id": 11,
+            "name": "Smart Home Hub",
+            "color": "White",
+            "price": 129.99,
+            "category": "Home Automation",
+            "brand": "SmartNest",
+            "photo": "https://png.pngtree.com/png-vector/20240716/ourmid/pngtree-smart-home-hub-on-transparent-png-image_13125054.png"
+        },
+        {
+            "id": 12,
+            "name": "Fitness Tracker",
+            "color": "Pink",
+            "price": 199.99,
+            "category": "Wearable",
+            "brand": "FitPro",
+            "photo": "https://png.pngtree.com/png-vector/20240807/ourmid/pngtree-fitness-tracker-smart-watch-png-image_13403398.png"
+        },
+        {
+            "id": 13,
+            "name": "E-Reader",
+            "color": "Black",
+            "price": 129.99,
+            "category": "Mobile",
+            "brand": "ReadEasy",
+            "photo": "https://w1.pngwing.com/pngs/746/681/png-transparent-library-book-ereaders-ebook-reading-technology-electronics-accessory-thumbnail.png"
+        },
+        {
+            "id": 14,
+            "name": "Action Camera",
+            "color": "Yellow",
+            "price": 299.99,
+            "category": "Cameras",
+            "brand": "AdventureCam",
+            "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJ_Yb4eryZ6vQaNeHJ-Sj_FUiC7rz9-_yMpw&s"
+        },
+        {
+            "id": 15,
+            "name": "Portable Charger",
+            "color": "Blue",
+            "price": 49.99,
+            "category": "Accessories",
+            "brand": "ChargeOn",
+            "photo": "https://png.pngtree.com/png-vector/20210929/ourmid/pngtree-power-supply-and-energy-charging-of-power-bank-png-image_3964890.png"
+        }
+    ]
+}
